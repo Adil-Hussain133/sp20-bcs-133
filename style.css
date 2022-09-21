@@ -1,0 +1,64 @@
+.main_div{
+    margin: 1% 15% 1% 15%;
+}
+.my_img{
+float: left;
+width: 30%;
+}
+.profile{
+    float: right;
+    width: 70%;
+    font-size: 20px;
+
+}
+.name{
+    margin-top: 0px;
+    padding: 20px 0px 10px 0px;
+    background-color: rgb(235, 235, 9);
+    overflow: hidden;
+    border: 1px
+    solid black;
+    
+}
+
+.ptitle{
+    
+    padding-left: 10px;
+    background-color: black;
+    
+    color: white;
+    float: left;
+    width: 30%;
+}
+.pname{
+    font-size: 20px;
+    font-weight: 200;
+    float: right;
+    width: 65%;
+}
+.left-align{
+    float: left;
+    width: 25%;
+    border: 1px solid black ;
+}
+.contect{
+    color: white;
+    background-color: gray;
+    padding: 5%;
+}
+.experience{
+    color: white;
+    background-color: rgb(84, 81, 81);
+    padding: 5%;
+}
+.education{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+.right-align{
+    
+    font-size: 20px;
+    float: right;
+    width: 70%;
+}
